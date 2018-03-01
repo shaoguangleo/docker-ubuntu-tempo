@@ -1,4 +1,4 @@
-FROM shaoguangleo/ubuntu-tempo:latest
+FROM shaoguangleo/ubuntu-pgplot:latest
 MAINTAINER [Guo Shaoguang] <sgguo@shao.ac.cn>
 
 LABEL version="0.1"
